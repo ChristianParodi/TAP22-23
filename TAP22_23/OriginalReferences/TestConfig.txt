@@ -1,0 +1,2 @@
+..\..\..\..\Logic\bin\Debug\net6.0\Logic.dll
+Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=progetto_tap;Integrated Security=true;
